@@ -2214,6 +2214,8 @@ a:focus {
 .page-content > .content h2,
 .page-content > .content .h2 {
   line-height: 48px;
+  font-family:'Droid Arabic Kufi';
+  text-align:center;
 }
 .page-content > .content h3,
 .page-content > .content .h3 {
